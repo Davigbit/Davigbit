@@ -1,4 +1,4 @@
-# Hello, I am Davi
+## Hi, I am Davi!
 
 ### Contact Information
 - [LinkedIn](https://www.linkedin.com/in/davigbit/)
