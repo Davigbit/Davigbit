@@ -3,4 +3,4 @@
 ### Contact Information
 - [davi.gavabittencourt@mail.mcgill.ca](mailto:davi.gavabittencourt@mail.mcgill.ca)
 - [LinkedIn](https://www.linkedin.com/in/davigbit/)
-- [Curriculum Vitae]([https://drive.google.com/file/d/1yNywZbV6TZ8nBHxpmzaH6XiIn2um0KFT/view?usp=sharing](https://drive.google.com/file/d/142A97NxN9A5_MHLj5-cGr6GLWpfANEEG/view?usp=sharing))
+- [Curriculum Vitae](https://drive.google.com/file/d/142A97NxN9A5_MHLj5-cGr6GLWpfANEEG/view?usp=sharing)
